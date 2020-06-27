@@ -1,3 +1,4 @@
+# All this code is fake. It does not work. Trust me, I ran it. 
 # I stole this
 # https://codecombat.com/play/level/treasured-in-ice
 # Find the treasure inside the maze.
