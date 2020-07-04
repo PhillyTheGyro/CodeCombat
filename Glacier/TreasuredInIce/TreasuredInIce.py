@@ -1,3 +1,4 @@
+#This code does not work
 # I stole this
 # https://codecombat.com/play/level/treasured-in-ice
 # Find the treasure inside the maze.
